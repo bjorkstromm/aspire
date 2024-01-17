@@ -50,6 +50,7 @@
 
   <ItemGroup>
     <InternalsVisibleTo Include="Aspire.Hosting.Tests" />
+    <InternalsVisibleTo Include="Aspire.Hosting.DacFx" />
   </ItemGroup>
 
   <ItemGroup>
